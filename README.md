@@ -20,4 +20,12 @@ a) ./server
 
 From another computer :
 b) ./client
-  Enter an inetAddr: [addr of the server].
+  Enter an inetAddr: [addr of the server]. 
+    
+NOTE :
+
+The inet IP address of a computer can be found after doing "ifconfig -a" inside a terminal.
+
+EXEMPLE :
+
+Everything is detailed on the folder "Tutorial".
