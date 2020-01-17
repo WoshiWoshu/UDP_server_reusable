@@ -1,6 +1,6 @@
 # UDP_server_reusable
-Reusable multi-threaded UDP server/client in C++ built by me containing a Modular interface + heritages that can be adapted to any new implementations and even new protocols like TCP.
-In this implementations i adapted the software to be a FTP (File Transfer Protocol) that can sends and receives audio files between clients. The server is in charge of redistributions, processing of messages (serializations) and handling new requests.
+Reusable multi-threaded UDP server/client in C++ built by me containing a modular interface + heritages that can be adapted to any new implementations and even new protocols like TCP.
+In this implementations I adapted the software to be a FTP (File Transfer Protocol) that can sends and receives audio files between clients. The server is in charge of distributions, processing messages (serializations) and handling new requests.
 
 USAGE :
 
