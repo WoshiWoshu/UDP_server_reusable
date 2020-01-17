@@ -4,6 +4,20 @@ In this implementations i adapted the software to be a FTP (File Transfer Protoc
 
 USAGE :
 
-1) Make
+LOCAL :
 
-From one terminal
+From one terminal :
+a) ./server
+
+From another terminal :
+b) ./client
+  Enter an inetAddr: 127.0.0.1
+  
+LAN :
+
+From one computer :
+a) ./server
+
+From another computer :
+b) ./client
+  Enter an inetAddr: [addr of the server].
