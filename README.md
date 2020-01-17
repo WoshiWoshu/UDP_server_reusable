@@ -4,23 +4,23 @@ In this implementations I adapted the software to be a FTP (File Transfer Protoc
 
 USAGE :
 
-  LOCAL :
+      LOCAL :
 
-  From one terminal :
-  a) ./server
+      From one terminal :
+      a) ./server
 
-  From another terminal :
-  b) ./client
-    Enter an inetAddr: 127.0.0.1
+      From another terminal :
+      b) ./client
+        Enter an inetAddr: 127.0.0.1
 
-  LAN :
+      LAN :
 
-  From one computer :
-  a) ./server
+      From one computer :
+      a) ./server
 
-  From another computer :
-  b) ./client
-    Enter an inetAddr: [addr of the server]. 
+      From another computer :
+      b) ./client
+        Enter an inetAddr: [addr of the server]. 
     
 NOTE :
 
