@@ -24,8 +24,8 @@ USAGE :
     
 NOTE :
 
-The inet IP address of a computer can be found after doing "ifconfig -a" inside a terminal.
+      The inet IP address of a computer can be found after doing "ifconfig -a" inside a terminal.
 
 EXEMPLE :
 
-Everything is detailed on the folder "Tutorial".
+      Everything is detailed on the folder "Tutorial".
